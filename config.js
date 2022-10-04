@@ -49,7 +49,7 @@ global.urlnya = "https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G"
 //============= callButtons ========== 
 ===//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 8951 694 7204'
+global.phn = '+62 895-1694-7204'
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
